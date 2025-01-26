@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackcheal Dang</h1>
-<h3 align="center">I'm a software developer based in Fort Worth, Texas 🤙</h3>
+<h3 align="center">I'm a fullstack software developer based in Fort Worth, Texas 🤙</h3>
 
 - 🌱 I’m currently learning **Supabase, AWS, and ThreeJS**
 
