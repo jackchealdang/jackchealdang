@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jackcheal Dang</h1>
-<h3 align="center">I'm a new graduate software developer from the University of Texas at Arlington 🤙</h3>
+<h3 align="center">I'm a software developer based in Fort Worth, Texas 🤙</h3>
 
-- 🌱 I’m currently learning **React, ThreeJS, NextJS**
+- 🌱 I’m currently learning **Supabase, AWS, and ThreeJS**
 
-- 👨‍💻 All of my projects are available at [https://jackchealdang.com](https://jackchealdang.com)
+- 👨‍💻 Check out my website at [https://jackchealdang.com](https://jackchealdang.com)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
